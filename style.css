@@ -1,0 +1,16 @@
+body {
+    font-family: ubuntu, sans-serif;
+  }
+
+  #main {
+    text-align: center;
+    background-color: #d3d3d3;
+  }
+  
+  #image {
+    max-width: 25%;
+    display: inline-block;
+  }
+  
+
+  
